@@ -27,7 +27,7 @@ body{
 }
 
 .container{
-  background-color: var(--clr-rose-white);
+  background-color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
