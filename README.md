@@ -6,7 +6,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - [Screenshot](#screenshot)
 - [Links](#links)
-- [Built With](#built-with)
+- [Built with](#built-with)
 
 ### Screenshot
 
@@ -17,7 +17,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 - [Live Site URL](https://debabratabanik.github.io/recipe-page-main/)
 - [Challenge Solution URL](https://www.frontendmentor.io/solutions/recipepagemain-JAKx5h5ANK)
 
-### Built With
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
